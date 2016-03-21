@@ -1,4 +1,4 @@
-﻿# Jekyll-Bootstrap
+# Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
@@ -18,7 +18,7 @@ You might want to run 0.3.0 in a branch to make sure you are ok with the theme d
 
 [0.4.0](https://github.com/plusjade/jekyll-bootstrap/milestones/v%200.4.0) - next release [ETA 03/29/2015]
 
-### GOALS 
+### GOALS
 
 * No open PRs against master branch.
 * Squash some bugs.
